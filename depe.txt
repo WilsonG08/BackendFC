@@ -1,0 +1,22 @@
+Instalaciones necesarias
+Despues de npm init --y 
+el 
+
+"type": "module"
+
+
+
+
+1.- npm i express
+2.- npm i nodemon -D
+3.- npm i morgan
+4.- npm i mongoose
+5.- npm i bcryptjs
+6.- npm i jsonwebtoken
+7.- npm i cookie-parser
+
+// Para la validacion del Back (opcional)
+8.- npm i zod
+
+// Para los cors, comunicacion eentre back y front
+9.- npm i cors
